@@ -56,3 +56,7 @@ button:active{
 	transform:translateY(0.05rem) scale(0.95);
 	
 }
+
+.hidden{
+	display:none;
+}
